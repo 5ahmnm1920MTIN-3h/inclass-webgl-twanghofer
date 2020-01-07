@@ -1,13 +1,13 @@
-# Template Repository for Unity3D version 2019.1.14f1
+# inclass-webgl
 
 ### Project description: 
-Introduction/Project summary 
+WEbGL, testing repository and hosting.
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10, Unity 2019.1.14f1, Visual Studio Community 2017 v 15.6.1; Scripting Runtime Version 4.X
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, reference resolution 960 x 600 
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Twanghofer
